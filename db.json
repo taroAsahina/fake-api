@@ -1,0 +1,24 @@
+{
+    "detailList": [
+        {
+            "title": "SolidJSについて",
+            "date": "2024/5/29",
+            "client": "Taro Asahina"
+        },
+        {
+            "title": "tailwind cssについて",
+            "date": "2024/5/31",
+            "client": "Taro Asahina"
+        },
+        {
+            "title": "このコンポーネントのスタイルが文字列の長さによって崩れる件",
+            "date": "2024/5/21",
+            "client": "Taro Asahina"
+        },
+        {
+            "title": "23-0時の淡い赤色のスカイツリーが一番好き。0時になると消灯する。青も好きだけどね。",
+            "date": "2024/5/21",
+            "client": "Taro Asahina"
+        }
+    ]
+}
