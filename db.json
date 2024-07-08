@@ -3,22 +3,26 @@
         {
             "title": "SolidJSについて",
             "date": "2024/5/29",
-            "client": "Taro Asahina"
+            "client": "Taro Asahina",
+            "description": "SolidはReactとknockoutという巨人の肩の上に立っている。SolidはHookのルールを持たず、シンプルなものになっている。すべてのコンポーネントは一度だけ実行され、依存関係が更新されるたびに実行されるのは、フックとバインディングである"
         },
         {
             "title": "tailwind cssについて",
             "date": "2024/5/31",
-            "client": "Taro Asahina"
+            "client": "Taro Asahina",
+            "description": "tailwind cssやばすぎ。快適過ぎ。classに書き込むというcssのruleをガン無視。ただ、classで指定されていたものはどうするんだろう。idは一意なはずだからそっち使うのかな。"
         },
         {
             "title": "このコンポーネントのスタイルが文字列の長さによって崩れる件",
             "date": "2024/5/21",
-            "client": "Taro Asahina"
+            "client": "Taro Asahina",
+            "description": "リアクティブ？モバイル対応みたいなのしてないから。tailwind cssで良い感じにできそうだけどな。"
         },
         {
             "title": "23-0時の淡い赤色のスカイツリーが一番好き。0時になると消灯する。青も好きだけどね。",
             "date": "2024/5/21",
-            "client": "Taro Asahina"
+            "client": "Taro Asahina",
+            "description": "スカイツリーって何時から点灯してるんだろう。夏と冬で点灯時間も異なるのかな。一時間ごとに色が変わってる気がする。曜日とか時間以外の要因で色って変わるのかな。"
         }
     ]
 }
