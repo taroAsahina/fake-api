@@ -24,5 +24,67 @@
             "client": "Taro Asahina",
             "description": "スカイツリーって何時から点灯してるんだろう。夏と冬で点灯時間も異なるのかな。一時間ごとに色が変わってる気がする。曜日とか時間以外の要因で色って変わるのかな。"
         }
+    ],
+    "expertlist": [
+        {
+            "name": "Ryan Carniato",
+            "job": "software engineer",
+            "speciality": "SolidJS",
+            "carrer": "2018- 現在: SolidJSの主要開発者としてフレームワークの設計と改善に従事。前職ではUI/UX設計にも携わっていた。"
+        },
+        {
+            "name": "Linus Torvalds",
+            "job": "software engineer",
+            "speciality": "Linux Kernel",
+            "carrer": "1991- 現在: Linuxカーネルの創始者としてメンテナンスと新機能の追加に従事。1991年にLinuxカーネルの初版をリリースし、世界中のサーバーやデバイスで使用されている。"
+        },
+        {
+            "name": "Guido van Rossum",
+            "job": "software engineer",
+            "speciality": "Python",
+            "carrer": "1989- 現在: Pythonプログラミング言語の創始者として、言語の設計と進化に貢献。1989年にPythonの最初のバージョンを開発し、その後もコミュニティとともに言語を成長させている。"
+        },
+        {
+            "name": "Brendan Eich",
+            "job": "software engineer",
+            "speciality": "JavaScript",
+            "carrer": "1995- 現在: JavaScriptの創始者として、Web開発の革新に貢献。1995年にNetscape Navigator用にJavaScriptを開発し、その後のWebブラウザの標準言語となる。"
+        },
+        {
+            "name": "John Carmack",
+            "job": "software engineer",
+            "speciality": "Game Development",
+            "carrer": "1991- 現在: id Softwareの共同設立者として、先進的なゲームエンジンの開発に携わる。特に「Doom」や「Quake」の開発で知られ、ゲームプログラミングの革新をリードしてきた。"
+        },
+        {
+            "name": "Bjarne Stroustrup",
+            "job": "software engineer",
+            "speciality": "C++",
+            "carrer": "1983- 現在: C++プログラミング言語の創始者として、言語の設計と進化に貢献。1983年にC++を開発し、オブジェクト指向プログラミングの標準として広く利用されている。"
+        },
+        {
+            "name": "James Gosling",
+            "job": "software engineer",
+            "speciality": "Java",
+            "carrer": "1995- 現在: Javaプログラミング言語の創始者として、言語の設計と普及に貢献。1995年にJavaを発表し、企業向けアプリケーションやモバイルアプリケーションで広く使用されている。"
+        },
+        {
+            "name": "Kent Beck",
+            "job": "software engineer",
+            "speciality": "Extreme Programming",
+            "carrer": "1999- 現在: Extreme Programming (XP) の提唱者として、ソフトウェア開発の手法とプラクティスに貢献。1999年にXPの概念を広め、アジャイル開発の重要な部分となった。"
+        },
+        {
+            "name": "Margaret Hamilton",
+            "job": "software engineer",
+            "speciality": "Apollo Guidance Computer",
+            "carrer": "1960s- 現在: Apolloプログラムのためのガイダンスコンピュータソフトウェアの開発に従事。1960年代にNASAで働き、月面着陸ミッションの成功に寄与した。"
+        },
+        {
+            "name": "Ada Lovelace",
+            "job": "mathematician",
+            "speciality": "Algorithm Design",
+            "carrer": "1840s- 1840年代: チャールズ・バベッジの解析機関用に初めてアルゴリズムを設計した。彼女の仕事は「世界初のプログラマー」として認識され、計算機科学の基礎を築いた。"
+        }
     ]
 }
